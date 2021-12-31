@@ -26,7 +26,7 @@ def adivina_numero_pc(x):
 
         # obtener respuesta del usuario
 
-        respuesta = input(f"Mi prediccion es: {prediccion}  #intentos: {intentos} | Si es alta, ingresa (a). si es pequeña, ingresa (b). si es correcta, ingresa (c)").lower()
+        respuesta = input(f"Mi prediccion es: {prediccion}  #intentos: {intentos} | Si es alta, ingresa (a). si es pequeña, ingresa (b). si es correcta, ingresa (c):   ").lower()
 
         if respuesta == "a":
             limite_superior = prediccion - 1
