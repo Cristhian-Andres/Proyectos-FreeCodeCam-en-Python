@@ -13,10 +13,6 @@ def jugar():
     print("b. Papel")
     print("c. Tijera")
     
-    a = 'Piedra'
-    b = 'Papel'
-    c = 'Tijera'
-
     lista = ['a','b','c']
 
     usuario = input("Escoge una opcion: ").lower()
