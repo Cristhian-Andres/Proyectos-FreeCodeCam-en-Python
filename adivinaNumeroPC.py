@@ -34,7 +34,7 @@ def adivina_numero_pc(x):
         elif respuesta == "b":
             limite_inferior = prediccion + 1
         
-        intentos = intentos + 1;
+        intentos = intentos + 1
         
     
     print(f"Si, la computadora adivino el número correctamente: {prediccion} en  #intentos: {intentos}")

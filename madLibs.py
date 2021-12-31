@@ -1,4 +1,4 @@
-# concatener cadenas de caracteres.
+# Si puedes imaginarlo, puedes programarlo
 '''
     Supongamos que queremos crear una cadena que diga:
     Aprender a progrmar con ___________. 
